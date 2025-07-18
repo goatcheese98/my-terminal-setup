@@ -1,0 +1,3 @@
+theme = aura
+font-family = "AnonymicePro Nerd Font Mono" # Use the Mono version for best terminal alignment
+font-size = 18
